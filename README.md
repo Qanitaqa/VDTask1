@@ -1,2 +1,2 @@
-# VDTask1
-This repo consists of Objective Task1 where I Have tried to design a POM based Salenium with Java framework. For unit testing I have used TestNG. 
+# Swag Lab Login Automation 
+SwagLabs Automation is an automation testing framework designed for the Swag Labs e-commerce website. It allows you to perform automated testing on the site's login functionality and ensure that it meets the desired specifications. The framework is built using the JDK, Selenium Page object Model and TestNG. For reporting I have used extent report maven dependency. Also for Database connectivity used Java JDBC. 
